@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  }
+}
